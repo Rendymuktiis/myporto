@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myporto/static/css/main.db76a3b0.chunk.css",
+    "main.js": "/myporto/static/js/main.94e30c37.chunk.js",
+    "main.js.map": "/myporto/static/js/main.94e30c37.chunk.js.map",
+    "runtime-main.js": "/myporto/static/js/runtime-main.b0c2bfcb.js",
+    "runtime-main.js.map": "/myporto/static/js/runtime-main.b0c2bfcb.js.map",
+    "static/css/2.d64471e2.chunk.css": "/myporto/static/css/2.d64471e2.chunk.css",
+    "static/js/2.236fbac8.chunk.js": "/myporto/static/js/2.236fbac8.chunk.js",
+    "static/js/2.236fbac8.chunk.js.map": "/myporto/static/js/2.236fbac8.chunk.js.map",
+    "index.html": "/myporto/index.html",
+    "precache-manifest.44f21d76dc93aa3d8707e0dbd5962a6c.js": "/myporto/precache-manifest.44f21d76dc93aa3d8707e0dbd5962a6c.js",
+    "service-worker.js": "/myporto/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/myporto/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db76a3b0.chunk.css.map": "/myporto/static/css/main.db76a3b0.chunk.css.map",
+    "static/js/2.236fbac8.chunk.js.LICENSE.txt": "/myporto/static/js/2.236fbac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0c2bfcb.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.236fbac8.chunk.js",
+    "static/css/main.db76a3b0.chunk.css",
+    "static/js/main.94e30c37.chunk.js"
+  ]
+}
