@@ -15,7 +15,6 @@
         "startDate": "2020",
         "description": "The purpose of this web is to detect face, which using models from artificial intelligence, models are able to determine and detect which parts of an image are part of the face. To use it, the user can register first. Then the user can paste the url/link containing the photo with the extension.jpg",
         "images": [
-          "images/portfolio/face-detection/signin.jpg",
           "images/portfolio/face-detection/register.jpg",
           "images/portfolio/face-detection/content.jpg"
         ],
